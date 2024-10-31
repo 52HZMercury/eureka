@@ -6,7 +6,7 @@ package swordoffer;
  * @author: Mr.Mercury
  * @create: 2023-02-25 10:47
  **/
-public class leetcode62uniquePaths {
+public class uniquePaths {
     public static void main(String[] args) {
         System.out.println(factorial(18));
         System.out.println(uniquePaths(10,10));
